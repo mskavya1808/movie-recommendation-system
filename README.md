@@ -14,6 +14,7 @@ This project is a content-based movie recommendation system built using Python.
 
 
 ##Output Example
+
 Top recommendation for Avengers :
 1. Iron Man
 2. Thor
